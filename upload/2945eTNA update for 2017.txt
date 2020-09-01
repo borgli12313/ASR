@@ -1,0 +1,28 @@
+1.	Under Training (for both admin and other users)
+•	Application form – Past years’ from: to include 2016 as dropdown option
+•	Training Evaluation – to include 2017 as dropdown option
+•	Training Effectiveness – to include 2017 as dropdown option
+•	View Achievements – remove 2016 from title and include 2017 as dropdown option
+•	View Courses – remove 2016 from title
+
+2.	Under Reports
+•	View Past Courses – include 2017 from dropdown option (for both admin and other users)
+•	Employee without NT – remove 2016 from the title (for both admin and other users)
+•	Training Expenditure – include 2017 from dropdown option (only for admin)
+•	View Sectionwise Statistics – remove 2016 from the title (only for admin)
+•	HR Approved Courses – remove 2016 from title and include 2017 to the dropdown option (only for admin)
+
+3.	Under Application Process
+•	HR Verification – remove 2016 from title and include 2017 to the dropdown option (for both admin and other users)
+•	View Courses Approved – include 2017 from dropdown option (for both admin and other users)
+
+4.	Admin
+•	Employee Submit Status – remove 2016 from the title (only for admin)
+•	Approval Pending List – remove 2016 from the title (only for admin)
+
+5.	Execution
+•	Batch Creation – include 2017 from dropdown option (only for admin)
+•	Batch Listing – include 2017 from dropdown option (only for admin)
+•	View Achievements – include 2017 from dropdown option (only for admin)
+•	Evaluation Review – include 2017 from dropdown option (only for admin)
+•	Effectiveness Review – include 2017 from dropdown option (only for admin)

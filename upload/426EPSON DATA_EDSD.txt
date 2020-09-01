@@ -1,0 +1,50 @@
+INBOUND
+
+1. ED,SD and VI can be differentiated based on 
+    E20 &E30 for ED
+    SD0 for SD
+    SD1 for VI
+
+2. All receipt starting with DN is local,while those starting with IV and GIV are Overseas.
+
+3. For the immediate report to default
+     All  inbounds as follows,
+    a. ED by AIR
+    b. VI  by AIR
+    c. SD by SEA
+
+Going forward, they would like to have 2 columns in the receipt during ASN creation to capture MODE and Forwarder information
+	What are the expected values for MODE & FORWARDER ?    
+
+            The Values for MODE will be :AIR,SEA,TRUCK
+            Forwarder: The list will be provided by Ops team for the drop down.        
+    
+ 4. Forwarder information:
+     All DN's that have the   GIVMSPC2X543P text belongs to Malaysia and the forwarder is BAX, the rest are Non- BAX.
+	If we are collecting data for Forwarder in (3), are we still expected to hardcode this logic...... to differentiate BAX, Non-BAX ????
+
+           This would be for only now(data for the past few months) since we are not capturing the information. as said in point 3, going    		forward with the screen, the input these information is possible and we could retrieve data based on it
+
+5. Frequency of shipment: 
+	a.All manual ASN and DN(local)created in a day to be considered as 1 shipment/count for frequency.
+                b.For Overseas, Each IV/GIV created to be considered as 1 shipment/count for frequency.
+
+	So all reports classify data into the respective months based on ASN creation date ?????
+            
+             Yes, the ASN date will decide the Month it should fall into.
+
+OUTBOUND
+
+1.  Any DN that is in transportation Job and ship to code  is 'SG' -  Consider Local and Bax deliver
+     Any DN that is not  in transportation Job and ship to code  is 'SG' -  Consider Local and Self collect
+     Any DN that not transportation Job and ship to code  is not 'SG' -  Consider overseas
+     Any DN that is in transportation Job and ship to code  is not 'SG' -  Consider overseas by Truck
+
+	"Ship To Code" here refer to ShipToKey or Ship To Country ????
+            
+Refers to Ship to country code, S_country in WMS orders table
+
+2.  Mode: To collect the data from the 940 message.
+3. Forwarder Information: To collect the data from the 940 message code and look up table.
+4. Frequency :One local job to be consider as one shipment. 
+                            A count of unique consigneekey, per day to be considered as one shipment for overseas.

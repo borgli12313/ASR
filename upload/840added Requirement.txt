@@ -1,0 +1,6 @@
+To add additional validate: 
+
+1. validate special characters ; 
+2. validate first 4 characters of the prefix,   ( change from 2 chars perfix) 
+3. Prefix validate, take the last scanned serial no for prefix checking if the wave is partial scanned. 
+4. Response window will prompt with error sound if serial no has invalid format, ( for No.1 ) 

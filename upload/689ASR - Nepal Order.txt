@@ -1,0 +1,4 @@
+A new bill and ship to code set up for Sri Lanka-Nepal order - 760000/001 since Nov 05. 
+ICP to be based on India.
+Blocked File to be based on Sri Lanka.
+Every week when there is a price refresh, Nepal order-760000/001 should also be updated automatically based on India Price. 

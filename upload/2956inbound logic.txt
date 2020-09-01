@@ -1,0 +1,4 @@
+Created date: ASN created date, IT to include a field for user to key in the physical dock date, if date not available, finalisation not allow
+Reason code should not be defaulted
+For those KPI failed, user must input the reason code themselves, if reason code not available, finalisation not allow
+To include ASN# in the report

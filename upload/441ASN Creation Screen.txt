@@ -1,0 +1,10 @@
+1) To adjust the supplier field for accomodating full text
+
+2) To add in the following new suppliers
+
+- (SEC) Business System Production Control Dept (JP)
+- (SEC) LP Production Control Dept (JP)
+- (SEC) IJP Production Control Dept (JP)
+- (SEC) IJP Production Control Dept-Supplies(JP)
+- TECO IMAGE SYSTEMS CO.LTD (TW)
+- SIMOTEC INC (JP)

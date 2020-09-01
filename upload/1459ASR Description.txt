@@ -1,0 +1,13 @@
+Objective: broadcast newsletters/news to customers via email messages while Marketing to upload contents onto Internet.
+
+Admin: Marketing
+
+Functionality: 
+- Ability to separate "E-newsletter" & "E-news"
+- website for Marketing to upload content(s)
+(attached pic #1/2/3)
+- "publish" button for Marketing to click on & content will automatically be sent to customers via email.
+(attached pic #4)
+- linking customers back to the website when they click on email
+- Ability to upload documents to Internet
+- Another website for Marketing to maintain customers' database: email addresses to send when "publish" button is clicked.

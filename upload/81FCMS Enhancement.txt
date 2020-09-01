@@ -1,0 +1,5 @@
+Current Situation:
+The current contract screen does not reveal the remarks inputted by the freight planners and this potentially cause problems for her viewers/users.
+
+Proposed Solution:
+Show the payload history (remarks) on the contract screen as well as on the inquiry screen

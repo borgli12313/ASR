@@ -1,0 +1,12 @@
+While performing order creating, details entered are not all being printed for DN and pickticket.
+
+Rubber stamps are used on DN/picktickets to differentiate the service level and shipment cargo details are always hand-written.
+
+Lastly, Ops are unable to allocate stock via LP entry.
+
+
+
+
+
+
+

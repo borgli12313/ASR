@@ -1,0 +1,62 @@
+Hi Gui,
+
+There are few notes that I need to bring it up to you as below before we
+study/explore the IT Solution.
+
+1. Before sending edi856 to you, System will get the PO# based on the SKU
+and Plant (will not include SSKU, PO expiry date --> even though you're
+sending to us, at our end it is just for reference only). Is it correct??
+
+Gui ans : Yes .
+
+2. System will not be able to handle duplicate records such as the same SKU
+and Plant in one file. Is there such a scenario???
+Gui ans : Are u refering to 1 sku , 1plant , multiple PO . This will not
+happen .
+1 Po will only relate to 1 SKU and 1 Plant .
+
+3. The file you send to us must be in Tab-Delimetered. (Easier for IT
+development and less time to develop). Is it ok??
+
+Gui ans : No problem .
+
+4. As you are aware that in our system there are possiblity having a same
+sku but different format, for example:
+1234-5678
+@@1234-5678
+
+Based on example above. Thus, the file you send to us, must include
+1234-5678 and @@1234-5678 as well.
+If not, how will the system identify which PO to use?? is it ok for you to
+provide both SKUs???
+
+Gui Ans : Already include all in the attachment file .
+
+5. Since the file coming to you as the attachment through email, there will
+be timing gap issue. For example as below:
+8am - You send the email to us (with a new PO)
+9am - edi856 triggered to you with the old PO
+10am - edi856 triggered to you with the old PO
+10:05am - we just read your email
+10:10am - Upload the attachment to our system
+11:00am - edi856 triggered to you with the new PO
+
+edi856 at 9 and 10 am are still reflecting the old PO??? any concerns???
+
+Gui ans : Timing gap for manual process is not preventable ,no concern for
+me .
+If we send file via FTP , I think that should be eliminate.
+
+6. The sku with old PO has not been fully utilized, then a set of new PO
+comes to us. Thus the system will send edi856 to you with the new PO. Any
+concerns???
+
+Gui ans: No concern .
+
+7. Since we're going to develop this program, why not we cater this for SKU
+mapping as well. The SKU mapping that you've asked to do in the past is a
+manual process. So I suggest to make it fully auto process. But take note
+of @@SKU must be provided as well.
+If yes, can we have a SKU mapping format as well??
+
+Gui ans: Complete mapping table as per attachment .

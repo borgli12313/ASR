@@ -1,0 +1,7 @@
+ASR 271:
+Modification request on 19 Dec 2003:
+1) Create ASN and detail upon allocation, instead of at shipwave
+
+2) Add ASN no to header of Kitting Order Management
+
+3) Create running number for Kit Work Order No

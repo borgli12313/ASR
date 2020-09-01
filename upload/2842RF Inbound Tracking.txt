@@ -1,0 +1,22 @@
+Basically the idea is for the Ops to scan the barcoded packslip on the outer carton and the information will be cross-reference against the open ASN in Exceed. 
+
+Thereafter the Ops will generate a report in WMS which will display the following:
+
+•	Date & Time scanned
+•	Packslip#
+•	ASN Status (Yes / No) – If the status is NO, it means the ASN is missing in WMS
+•	Priority (Same Day Turn/Critical Part/Normal)
+•	Userid
+
+When we retrieve the report in WMS, it will be by date basis. Thus, I can still retrieve data scanned for last Monday for example.
+
+Date/Time		Packslip#	ASN Status	Priority	Userid		Status
+08/08/2016 13:00	500012345	Yes		Same Day Turn	qcm.smteng	Closed
+08/08/2016 13:00	500012346	Yes		Same Day Turn	qcm.smteng	Open
+08/08/2016 13:00	500012347	Yes		Same Day Turn	qcm.smteng	Open
+08/08/2016 13:00	500012348	Yes		Same Day Turn	qcm.smteng	Open
+08/08/2016 13:00	500012349	Yes		Same Day Turn	qcm.smteng	Closed
+08/08/2016 13:00	500012350	No		Critical Part	qcm.smteng	Closed
+08/08/2016 13:00	500012351	No		Normal		qcm.smteng	Open
+08/08/2016 13:00	500012352	No		Normal		qcm.smteng	Open
+08/08/2016 13:00	500012353	No		Normal		qcm.smteng	Open

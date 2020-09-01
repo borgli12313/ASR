@@ -1,0 +1,8 @@
+Requirements 
+1.  There will be 40 lines per page for cycle count and PI. 
+2.  The cycle count sheet will sort by location, instead of the SKU. 
+3.   For PI, the inventory will be displayed by Aisle or  Location,  depending on the user choice.  If the user chose to displayed the inventory  by Aisle, it will sort by location and followed by LP. 
+4.  If the user chose to extract the information by Aisle, there will be two group, from level A - E, F - N, this is pertaining to PI. 
+5.  The page number will be in this format page n of n. For example, page 1 of 5.  Applicable to cycle count and PI. 
+6.  There will be a summary page to account for the location being printed.  Applicable to PI. 
+7.  Page Title for cycle count remain the same, as for PI, the title will be 'Qualcomm - PI Report'. 

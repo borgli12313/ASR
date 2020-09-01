@@ -1,0 +1,9 @@
+1)UPS RATE BY TABLE ASSIGNED BY CUSTOMER
+'Rate' spreadsheet will be to use to formula.
+
+2)INVOICE TO SINGAPORE WITHOUT 10% SERVICE CHARGE
+
+Remark: Due to the files are big- No attachment include. 
+Kindly copy from the folder 
+named Export invoicing on my desktop
+Please vnc to IP add: 172.22.25.145

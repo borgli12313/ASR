@@ -1,0 +1,21 @@
+IT action item :
+
+Transaction Entry
+1. Additional column flag in SKU ID Capture Maintenance  to indicate expiry
+date require to be key-in
+2. ITS will show a remark that expiry need to capture
+3. Additional column to key-in expiry date during Inbound SN scannning
+
+Report Enhancement
+1. Inbound SN scanning report will show expiry date accordingly
+2. Outbound SN Consumption report will show expiry date accordingly
+3. Inventory SN Balance report will show expiry date accordingly
+
+Operation action item :
+
+Transaction Entry
+1. Set expiry flag for parts need to capture expiry date in SKU ID capture
+Maintainance
+2. Ops need to start capture expiry date during Inbound SN scanning upon
+implementation
+3. All SN related Reports having expiry date is in HUB on-demand basis

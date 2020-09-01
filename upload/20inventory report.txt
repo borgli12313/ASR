@@ -1,0 +1,5 @@
+I realised that the inventory report being retreived in RABBIT includes qty such as pick, allocate or even on hold.
+
+Pls help to change the logic to exclude all allocated and pick qty, showing available qty in one column and another column "on hold"
+
+This will enable the user to know at one glance the available qty on hand at that point of time

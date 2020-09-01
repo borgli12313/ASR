@@ -1,0 +1,14 @@
+Hello Agnelo,
+
+We would like to add on one function for all L1 and L2 managers on the e-Training Portal for them to be able to apply on their employees’ behalf without having to login to their employee’s account individually. We have received several feedback regarding this and they brought up a valid point. For L1 managers with many employees under them, it is very time-consuming for them to do individual applications. Hence, we want to change this.
+
+Currently, blue collar workers do not have access to laptops, hence when they want to apply for a course, their L1 manager has to login to the employee’s account to apply for them, and then login to their own account to approve the application. We would like to allow L1 Managers to be able to apply for the employees under them using the L1 Manager’s account. This way, they will not have to obtain the login information of every employee and login to every single account to do the application.
+
+I have 2 suggestions on how this may be done, but we also have to consider the feasibility on your side.
+
+1.    Add in a new field in “Add New Course” where the L1 Managers will be able to select from a dropdown list the names of the employees under them.
+                                                                                                         
+2.    Add in a “Switch User” function for the L1 Manager’s account, similar to the Admin account. However, instead of allowing them to enter the employee ID, use a dropdown box that will already have the list of employees under them.
+ 
+
+Please advise on the feasibility of this by end Feb 2018.

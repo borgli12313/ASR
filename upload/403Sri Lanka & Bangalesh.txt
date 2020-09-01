@@ -1,0 +1,1 @@
+Bangladesh & Sri Lanka is going to place order with RDC, invoice will be billed to India, ie 751020 except their shipping code is 751020/002 and 751020/005 respectively. In order to prevent confusion for picking, would like to add the actual country on the top left hand corner beside J&J India

@@ -1,0 +1,9 @@
+Hi Meena,
+Kindly find attached for a/m.
+Pls help me to do the following:
+
+From sku list (of pallet qty) and current inventory, I would like to know its EXPECTED pallet number (fyi, the current competitor tracks it inventory by CBM and hence there is no feasibility on pallet number
+From the Pallet number list, catgeorise them into 2 types of pallet height; 2.2m and 1.6m
+Throw out those sku that does not appear in the inventory list
+
+Please let me know if you need more information

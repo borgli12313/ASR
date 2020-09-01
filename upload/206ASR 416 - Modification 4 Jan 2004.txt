@@ -1,0 +1,5 @@
+ASR 416
+Modification request on 04/01/2004
+
+- Change report name to BAX-EPSON 3-in-1 REPORT
+- Display only SKUs with transaction

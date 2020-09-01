@@ -1,0 +1,33 @@
+Hi Pingwee,
+
+As had spoken, Apple would like to extract some data from Exceed to do some data analysis. Below is a list of fields required:
+
+Period
+1st spreadsheet: Jan 02 - March 02
+2nd spreadsheet: oct 02 - Dec 02
+
+Inbound
+Origin country
+shipping qty
+SKU
+Product description (to indenitify the product group if we can't sort according to SKU)
+Shipper's name, address, zone/city codes ( if available)
+Mode of shipment (forgot to mention this)
+Departure & arrival dates (forgot to mention this)
+
+Outbound
+Ship to country
+shipping qty
+SKU
+Product description
+Ship to name, address, zone/city codes ( if available)
+Mode of shipment (forgot to mention this)
+Departure & arrival dates (forgot to mention this)
+
+If possible, I need the data to be sorted into origin / destination countries, and also into following product groups:
+e-Macs
+i-Macs
+Powerbooks
+i-Books
+G4
+Display

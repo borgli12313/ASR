@@ -1,0 +1,15 @@
+[CargoScan]
+;Printing COO label
+LabelPrinter=\\SG-CP10329\ZDesigner GX430t
+LPWorksheetPrinter=RICOH Aficio MP 5001 PCL 6
+ 
+[Printer]
+;Printing outbound labels
+OutboundLPPrinter=ZDesigner 140XiIII
+
+
+
+;@Warehouse
+;LabelPrinter=\\SG-CP10329\ZDesigner GX430t
+;LPWorksheetPrinter=RICOH Aficio MP 5001 PCL 6
+;OutboundLPPrinter=ZDesigner 140XiIII

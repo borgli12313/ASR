@@ -1,0 +1,163 @@
+Hi Seng Hock,
+
+Currently, the SOI Pansize report is based on On-Hand qty per Lot. If the qty has already been fully consumed per lot, the report will not able to generate the historical data. This report's purpose is for the users to able to identify how many stocks will be pulled based on Pan Size beforehand. So it is somehow useful for them to watch out for over conversion.
+
+The request below is somehow different. I can guess what you want. You want to know all historical Pansize entered during receiving. 
+My suggestion is
+
+To have a daily report instead of weekly report to show Pansize captured during receiving. Daily will be better than weekly especially for fast moving items. You can request to send twice or thrice per day.
+I'll setup a table to store all historical information (called 'Pansize info'), the format will be like:
+
+Storer code	SKU	Pansize 	Last Receipt date   
+==================================================
+
+We need to have a cut off date for this information captured above. That means once we implement, the number of record for  'Pansize info' will be empty.
+
+Let me show the scenario as below (assume the report will be sent 12pm every day)
+
+Scenario 1
+
+30 July 8:00 am, we receive 200 pcs with pansize=20. Storer=2000051467, Sku=122255-001
+System will capture this information into 'Pansize info' like:
+
+Storer code	SKU		Pansize 	Last Receipt date   
+=================================================================
+2000051467	122255-001	20		30 July 2003, 8:00AM
+
+At 12pm, the report will be sent base on the 'Pansize info'
+
+
+Scenario 2 (Same pansize)
+
+30 July 8:00 am, we receive 200 pcs with pansize=20. Storer=2000051467, Sku=122255-001
+System will capture this information into 'Pansize info' like:
+
+Storer code	SKU		Pansize 	Last Receipt date   
+=================================================================
+2000051467	122255-001	20		30 July 2003, 8:00AM
+
+
+30 July 9:00 am, we receive 100 pcs with pansize=20. Storer=2000051467, Sku=122255-001
+System will capture this information into 'Pansize info' like:
+
+Storer code	SKU		Pansize 	Last Receipt date   
+=================================================================
+2000051467	122255-001	20		30 July 2003, 9:00AM
+
+ie. since this is a same pansize as before, the data will not be added, instead of updating the Last Receipt Date
+
+- At 12pm, the report will be sent base on the 'Pansize info'
+
+
+Scenario 3 (Different pansize)
+
+30 July 8:00 am, we receive 200 pcs with pansize=20. Storer=2000051467, Sku=122255-001
+System will capture this information into 'Pansize info' like:
+
+Storer code	SKU		Pansize 	Last Receipt date   
+=================================================================
+2000051467	122255-001	20		30 July 2003, 8:00AM
+
+
+30 July 9:00 am, we receive 100 pcs with pansize=10. Storer=2000051467, Sku=122255-001
+System will capture this information into 'Pansize info' like:
+
+Storer code	SKU		Pansize 	Last Receipt date   
+=================================================================
+2000051467	122255-001	20		30 July 2003, 8:00AM
+2000051467	122255-001	10		30 July 2003, 9:00AM
+
+ie. since this is a different pansize as before, the data will be added.
+
+- At 12pm, the report will be sent base on the 'Pansize info'
+
+
+Scenario 4 
+
+30 July 8:00 am, we receive 200 pcs with pansize=20. Storer=2000051467, Sku=122255-001
+System will capture this information into 'Pansize info' like:
+
+Storer code	SKU		Pansize 	Last Receipt date   
+=================================================================
+2000051467	122255-001	20		30 July 2003, 8:00AM
+
+
+30 July 9:00 am, we receive 100 pcs with pansize=10. Storer=2000051467, Sku=122255-001
+System will capture this information into 'Pansize info' like:
+
+Storer code	SKU		Pansize 	Last Receipt date   
+=================================================================
+2000051467	122255-001	20		30 July 2003, 8:00AM
+2000051467	122255-001	10		30 July 2003, 9:00AM
+
+
+30 July 11:00 am, we receive 300 pcs with pansize=20. Storer=2000051467, Sku=122255-001
+System will capture this information into 'Pansize info' like:
+
+Storer code	SKU		Pansize 	Last Receipt date   
+=================================================================
+2000051467	122255-001	20		30 July 2003, 11:00AM
+2000051467	122255-001	10		30 July 2003, 9:00AM
+
+- At 12pm, the report will be sent base on the 'Pansize info'
+
+This information will be captured forever till HP end, we will not archive this table at all.
+So the ground people will have a visibilty for pansize to watch out before receiving.
+
+Please call me if you need any clarification or discuss further.
+
+
+Regards,
+HT
+
+
+	Clarito Ablanque / SIN
+	IT Process Analyst - Projects; Logistics IT; Singapore
+	30/07/2003 03:35 PM
+		
+		 To: SengHock Low/PACIFIC/BAX@BAX, Henry Tjan/PACIFIC/BAX@BAX
+		 cc: "BeeKim Lim (E-mail)" <beekim.lim@baxglobal.com>, "ChristopherYK Lim (E-mail)" <christopheryk.lim@baxglobal.com>, DavidGH Lim/PACIFIC/BAX@BAX, "David Lim GH (E-mail)" <davidgh.lim@baxglobal.com>, Edwin Ong/PACIFIC/BAX@BAX, "Ong Edwin (E-mail)" <edwin.ong@baxglobal.com>, "Tok Eric (E-mail)" <eric.tok@baxglobal.com>, Henry Tjan/PACIFIC/BAX@BAX, "Ridzal (E-mail)" <muhd.ridzal@baxglobal.com>, "Rose Pang (E-mail)" <rose.pang@baxglobal.com>, "SengHock Low (E-mail)" <senghock.low@baxglobal.com>, Sunny Chia/PACIFIC/BAX@BAX
+		 Subject: Re: Pansize for A6847-60101 - Who change the pansize? - URGENT!!!
+
+Hi Senghock,
+
+Basically, the report requirements will show you what is on-hand quantity in per lot basis at the point of generation and sending. Thereby, thus lot that was fully consumed will not appear on the report.
+
+Hi Henry,
+
+Please advise  below request from Senghock . Thanks
+
+rgds,
+CLARITO
+
+
+	SengHock Low / SIN
+	Operation Manager; Logistics; Singapore
+	30/07/2003 03:14 PM
+		
+		 To: Clarito Ablanque/PACIFIC/BAX@BAX
+		 cc: "BeeKim Lim (E-mail)" <beekim.lim@baxglobal.com>, "ChristopherYK Lim (E-mail)" <christopheryk.lim@baxglobal.com>, DavidGH Lim/PACIFIC/BAX@BAX, "David Lim GH (E-mail)" <davidgh.lim@baxglobal.com>, Edwin Ong/PACIFIC/BAX@BAX, "Ong Edwin (E-mail)" <edwin.ong@baxglobal.com>, "Tok Eric (E-mail)" <eric.tok@baxglobal.com>, Henry Tjan/PACIFIC/BAX@BAX, "Ridzal (E-mail)" <muhd.ridzal@baxglobal.com>, "Rose Pang (E-mail)" <rose.pang@baxglobal.com>, "SengHock Low (E-mail)" <senghock.low@baxglobal.com>, Sunny Chia/PACIFIC/BAX@BAX
+		 Subject: Re: Pansize for A6847-60101 - Who change the pansize? - URGENT!!!
+
+Clarito,
+
+The pansize is taken for previous day Receiving activities. Historical Data (meaning those not received) will not be reflected in this daily SOI Pansize
+report. This report is more of inventory matching. 
+
+You will also notice the said p/n is unable to retrieve from either last 2 days SOI Pansize report. 
+
+We need to extract Historical pansize for single line SKU instead of multiple line having same SKU. 
+
+Please advise to see if there is a way to publish weekly report for Pansize update by Vendor Storer code. (e.g -
+
+Storer code SKU Pansize  Last receipt date
+================================================
+
+Thanks & Regards,SH Low
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+As Roden will send RDC a list of SKUs with short UBDs and RDC will have to reply whether these short UBDs is acceptable.
+
+However, before replying to Roden, RDC need to check which countries had ordered these SKUs.  This process is long and time consuming.  With the above report, it helps the user to retreive the info faster.
+
+Pls see the attachment.

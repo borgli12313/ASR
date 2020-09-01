@@ -1,0 +1,15 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EAMS]
+
+"CnnStrSQL"="Provider=SQLOLEDB.1;Data Source=baxsgsinit02\\baxsgsinit02;Initial Catalog=BAXPR_BAX_ASR;User ID=asr.dbo;Password=baxasr;"
+
+ 
+
+"
+
+"MaxRecordsNo"="300"
+
+"HourRate"="40"
+
+"SMTPHost"="smtpapprelay.emas.signintra.com"

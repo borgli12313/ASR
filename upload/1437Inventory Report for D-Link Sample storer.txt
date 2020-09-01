@@ -1,0 +1,189 @@
+From: Jane Wong [jwong@dlink.com.sg]
+Sent: Friday, November 19, 2010 11:34 AM
+To: Jhun Deo
+Cc: 'Tan Tong Lung'; Sally Khoo; katherine.yap@dbschenker.com; Michelle
+Koh; Irene Khoo; 'Siti Mahadi'; song-hwee.lim@dbschenker.com
+Subject: RE: place all items received under D-Link Sample storer in same
+location_Follow UP I
+
+Attachments: DLINKSAMPLEInventory-17112010 075707.xls;
+DLINKSAMPLEInventory-18112010 075707.xls
+
+
+
+Dear All,
+
+Received the report this morning.
+
+Thank you for the effort.
+
+Best regards
+Jane
+
+
+
+
+
+"Jhun Deo" <jhun.deo@dbschenker.com> on 11/18/2010 04:51:41 PM
+
+To:    "'Tan Tong Lung'" <tong-lung.tan@dbschenker.com>
+cc:    Sally Khoo/Customer Service/DLINK-SEA/DLINK-INTL@DLINK-INTL,
+       <katherine.yap@dbschenker.com>, Michelle Koh/Customer
+       Service/DLINK-SEA/DLINK-INTL@DLINK-INTL, Irene Khoo/Customer
+       Service/DLINK-SEA/DLINK-INTL@DLINK-INTL, "'Siti Mahadi'"
+       <siti.mahadi@dbschenker.com>, Jane Wong/Customer
+       Service/DLINK-SEA/DLINK-INTL@DLINK-INTL,
+       <song-hwee.lim@dbschenker.com>
+
+Subject:    RE: place all items received under D-Link Sample storer in same
+       location_Follow UP I
+
+Hi Lionel,
+
+This was successfully put on production and was generate the report since yesterday morning and today. Please see the attached email for the generated report. I've notice that the subject was wrong but the file attachment was correct. I already modify the program to change the subject to DLINKSAMPLE Daily Inventory Report and put it on production, so starting tomorrow you will received the reports with correct subject on the email.
+
+Thanks & Regards,
+
+
+
+Jose Jr. Manalo Deo
+Senior Information Analyst
+
+IT Solutioning
+
+SCHENKER SINGAPORE (PTE) LTD
+
+17 Changi South Street 2 S(486129)
+DID:      +65 6549 1465
+
+Mobile: +65 9689 1579
+Email:   jhun.deo@dbschenker.com
+
+Global website: http://www.schenker.com
+
+
+-----Original Message-----
+From: Tan Tong Lung [mailto:tong-lung.tan@dbschenker.com]
+Sent: Thursday, November 18, 2010 4:46 PM
+To: 'Jhun Deo'
+Cc: 'Sally Khoo'; katherine.yap@dbschenker.com; 'Michelle Koh'; 'Irene Khoo'; 'Siti Mahadi'; 'Jane Wong'; song-hwee.lim@dbschenker.com
+Subject: RE: place all items received under D-Link Sample storer in same location_Follow UP I
+
+Hi Jose,
+
+Any updates?
+
+Regards
+
+Lionel Tan
+
+-----Original Message-----
+From: Jane Wong [mailto:jwong@dlink.com.sg]
+Sent: Thursday, November 18, 2010 11:59 AM
+To: 'Tong Lung Tan '; 'Lim Song Hwee'
+Cc: Sally Khoo; katherine.yap@dbschenker.com; Michelle Koh; Irene Khoo; Siti Mahadi
+Subject: place all items received under D-Link Sample storer in same location_Follow UP I
+
+
+Dear Lionel,
+
+As per your info 2 days ago, we will receive SCH daily inventory report for D-Link Sample Storer.
+
+Till date, I did not receive any report for D-Link Sampke Storer.
+
+Thanks and regards
+Jane
+
+---------------------- Forwarded by Jane Wong/Customer Service/DLINK-SEA/DLINK-INTL on 11/18/2010 11:57 AM
+---------------------------
+
+
+Jane Wong
+11/16/2010 02:32 PM
+
+To:    "'Tong Lung Tan '" <tong-lung.tan@dbschenker.com>, "'Lim Song Hwee'"
+       <song-hwee.lim@dbschenker.com>
+cc:    Sally Khoo/Customer Service/DLINK-SEA/DLINK-INTL@DLINK-INTL,
+       katherine.yap@dbschenker.com, Michelle Koh/Customer
+       Service/DLINK-SEA/DLINK-INTL@DLINK-INTL, Irene Khoo/Customer
+       Service/DLINK-SEA/DLINK-INTL@DLINK-INTL, "Siti Mahadi"
+       <siti.mahadi@dbschenker.com>
+
+Subject:    place all items received under D-Link Sample storer in same
+       location_Follow UP I
+
+
+Dear Lionel / Lim,
+
+Please advise if you have done below movement?
+
+Thanks and regards
+Jane
+
+---------------------- Forwarded by Jane Wong/Customer Service/DLINK-SEA/DLINK-INTL on 11/16/2010 02:30 PM
+---------------------------
+
+
+Jane Wong
+11/02/2010 04:08 PM
+
+To:    "'Tong Lung Tan '" <tong-lung.tan@dbschenker.com>, "'Lim Song Hwee'"
+       <song-hwee.lim@dbschenker.com>
+cc:    Sally Khoo/Customer Service/DLINK-SEA/DLINK-INTL@DLINK-INTL,
+       katherine.yap@dbschenker.com, Michelle Koh/Customer
+       Service/DLINK-SEA/DLINK-INTL@DLINK-INTL, Irene Khoo/Customer
+       Service/DLINK-SEA/DLINK-INTL@DLINK-INTL, "Siti Mahadi"
+       <siti.mahadi@dbschenker.com>
+
+Subject:    place all items received under D-Link Sample storer in same
+       location
+
+
+Dear Lionel / Lim,
+
+Kindly help to re-locate all the items received under D-Link Sample Storer to the same location in warehouse.
+
+Please do complete the movement within this month.
+After that, kindly generate the SCHSample Dlink daily inventory report by auto email every morning.
+
+Thanks and regards
+Jane
+
+
+
+
+
+
+
+
+
+
+----- Message from <SCH_DLink@dbschenker.com> on Wed, 17 Nov 2010 07:57:08
++0800 -----
+                                                                                                                     
+      To: <ikhoo@dlink.com.sg>, <mikoh@dlink.com.sg>, <skhoo@dlink.com.sg>, <jwong@dlink.com.sg>                     
+                                                                                                                     
+      cc: <jhun.deo@dbschenker.com>, <tong-lung.tan@dbschenker.com>, <siti.mahadi@dbschenker.com>,                   
+          <weng-yew.poon@dbschenker.com>                                                                             
+                                                                                                                     
+ Subject: DLINK Daily Inventory Report - 17/11/2010 075707                                                           
+                                                                                                                     
+
+Note :  DLink is required to verify the transactions in this report,any discrepancies must be highlighted within the working day to SCHENKER so that appropriate adjustments will be made in order not to affect the overall inventory.(See attached file: DLINKSAMPLEInventory-17112010
+075707.xls)
+----- Message from <SCH_DLink@dbschenker.com> on Thu, 18 Nov 2010 07:57:08
++0800 -----
+                                                                                                                     
+      To: <ikhoo@dlink.com.sg>, <mikoh@dlink.com.sg>, <skhoo@dlink.com.sg>, <jwong@dlink.com.sg>                     
+                                                                                                                     
+      cc: <jhun.deo@dbschenker.com>, <tong-lung.tan@dbschenker.com>, <siti.mahadi@dbschenker.com>,                   
+          <weng-yew.poon@dbschenker.com>                                                                             
+                                                                                                                     
+ Subject: DLINK Daily Inventory Report - 18/11/2010 075707                                                           
+                                                                                                                     
+
+Note :  DLink is required to verify the transactions in this report,any discrepancies must be highlighted within the working day to SCHENKER so that appropriate adjustments will be made in order not to affect the overall inventory.(See attached file: DLINKSAMPLEInventory-18112010
+075707.xls)
+
+
+

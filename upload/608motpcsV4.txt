@@ -1,0 +1,7 @@
+Enhancements from previous query:
+- include bill-to MOTPCS criteria for extraction
+- eliminate user's need to manually input HB#, now query automatically determine the HB
+- add PL and PO numbers
+- filter out records without any PPD charge
+- rearrange fields to better fit customer template for easier data transfer
+- sort data on client code, flight date, MAWB

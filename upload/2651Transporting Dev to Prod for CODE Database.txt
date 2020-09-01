@@ -1,0 +1,13 @@
+Transporting development/test to production for CODE Database which is scheduled to go live by 12th Nov 2015. Following are the details:
+
+Development/Test: 
+Server Name:       SIN-TEST2008
+Database Name:     SCHTS_CODE_SDC
+User ID:           code.dbo
+Password:          p@ssw0rd
+
+Production:
+Server Name:       SIN-WRANGLER16
+Database Name:     SCHPR_CODE_SDC
+User ID:           code.dbo
+Password:          p@ssw0rd

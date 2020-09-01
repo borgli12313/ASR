@@ -1,0 +1,7 @@
+(1) Request to create HuB Receiving Form by providing specific location.
+Every single trasaction needs
+- Validation on unique LP
+- Validation on Physical SKU compare to ITS SKU
+- Validation on Qty receiving vs ITS Qty
+
+(2) Need summary receiving report for under specific location by HAWB number

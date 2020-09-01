@@ -1,0 +1,41 @@
+-          APP: function clarification
+o   1 pallet column/pile puts 1 pick ticket items
+o   Scanning required for all LPs
+o   No limitation on no. of order per wave key as waving is done by Schenker system
+o   1 picker picks 1 wave key
+
+-          App: new function requirements
+o   urgent order assign function on app
+	- different from normal assignment
+	- prioritize urgent order picks
+o   show delivery ID when pickers report error
+o   show delivery ID when supervisors view error
+o   completed pick line will go down to the bottom of the display
+	- differentiate with incomplete lines
+
+-          DEVICE: availability
+o   One Honeywell test scanner available from QualComm OPS
+	- Available from next Tue, 24 Jan till after CNY
+	- NUS Team will come and collect next Wed, 25 Jan
+o   One Zebra test scanner available from vendor
+	- Will delay the collection of device from vendor
+	- Max 2 weeks availability after CNY
+o   NUS Team now have the following test device on hand from Schenker
+	- One Samsung phone
+	- One Samsung tablet
+
+-          IT: requirement clarification
+o   Test app on new Schenker database in testing environment
+o   WMS Auto-allocate function development in the future
+	- No wave key assignment at first (??)
+	- one wave key cannot contain too many orders
+•         to pick and put on one pallet
+•         consider pallet utilization/cbm when waving
+
+-          PROJECT: timeline
+o   Complete app by mid Feb
+o   App function test date tentatively on 14 Feb
+	- Test in Schenker office
+	- Test with Schenker database connected
+	- Ops team offer suggestion to improve
+o   Project complete by end of Feb

@@ -1,0 +1,14 @@
+1. Inbound KPI - 
+	Inpout in inbound Pallet Dim
+		- add container type (PDC/Others/FCL)
+                - Dock time milestone
+
+ KPI dock-> finalise by ContainerTYpe
+	PDC 	=> 2 days . 
+	FCL 	=> 3 days, 
+	Others 	=> 1 days
+
+2. Outbound KPI - Stage to 945 by MOT
+  	Truck 	=> 24 hrs
+  	AIR 	=> 24 hrs
+  	Ocean 	=> 5 days

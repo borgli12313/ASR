@@ -1,0 +1,3 @@
+1.  To retrieve the number of boxes base on the number of cartons entered in the Applet : Pallet ID -> Pallet or Applet : Pallet ID -> Carton screen.
+2.  Originally, it was retrieve base on the number of cartons that have been packed.
+3.  This change is needed because of pallet packing.  The order might have 5 boxes, but for pallet packing, they need to have an empty box.  So the user will entered 6 boxes.  The packing slip should show 6 instead of 5.

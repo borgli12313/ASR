@@ -1,0 +1,14 @@
+To incorporate the following additional information into the existing WIP Report.
+
+1) More detailed REAL TIME operation status information. 
+To include two additional status a)Picking in Progress and b)Packing in Progress.
+
+2) Additional date and time information of the following status for whichever 
+is available at the point of query.
+
+a)940
+b)Allocation
+c)Packed
+d)945
+
+Plse refer to .ppt file for details.

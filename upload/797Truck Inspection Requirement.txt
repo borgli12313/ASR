@@ -1,0 +1,12 @@
+Please help to incorporate the following into the gate pass (to be reflected at the end of the page).
+Header : Eight point Vehicle Inspection
+
+Check box for the following item:-
+1. Front Wall
+2. Left Side
+3. Right Side
+4. Floor
+5. Ceiling/ Roof
+6. Inside/ Outside doors
+7. Outside/ Undercarriage
+8. Locking mechanism

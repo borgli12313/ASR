@@ -1,0 +1,24 @@
+ABC classification report requested to be automated,the schedule to be
+finalised.
+The columns requested
+
+SKU   salesQty    Brand      BL          Classification
+
+Logic to be built in,
+
+1. 12  months of past  data from the day the report is generated.
+2. Sales qty is the quantity shipped during the period
+3. Sku's which forms the 70% of the total sales will be classified 'A'
+4. Sku's which forms the 20% of the total sales will be classified 'B'
+5. Sku's which forms the 10% of the total sales will be classified 'C'
+6. Rest of the Sku's with sales qty <=52  will be classified 'E'
+
+
+Modification required :-
+
+1) SKU with qty less than 52 will be auto "E" class
+
+2) This should exclude Cypher code : CRSxxxxx & CRAxxxxx
+
+3) change title "sales %" to "% contribution" and in 2 dec. place and
+another column for Cumulative %

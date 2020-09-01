@@ -1,0 +1,9 @@
+1) To manage fumigated pallets via the WMS as fumigated pallets will involve exceptional handling. Below is a high level overview of our requirements. 
+
+- Create a separate storer key for managing the pallets.
+- Module to keep track of quantity received and released.
+- To keep track of AVA certification date for alerting of expiring pallets. Fumigated pallets has a life span of 21 days from the date of AVA certification.
+- To allocate, pick and shipwave for the pallets consumption. Allocation should be FIFO.
+
+
+2) To have a tracking report of the pallets lifespan. (Plse see attached for format)

@@ -1,0 +1,13 @@
+1. Show Billing Details ie. ReceiptDate, ASN#, HPOrder#, ShipRef#, BoxID
+	- Handling IN (Non-Aircon)
+	- Handling IN (Aircon)
+	- Handling OUT (Non-Aircon)
+	- Handling OUT (Aircon)
+	- Location Storage (Non-Aircon)
+	- Storage (Aircon)
+
+2. Add pre-computed summary of billing charges for all reports
+3. Auto-generated report in PDF format accessible in Server
+4. Header Bill to Entity (Hewlett-Packard Asia Pacific Pte Ltd)
+5. Header Report Title change to HPC8 HUB
+6. Overall Summary of Each Report breakdown  C8, 2L

@@ -1,0 +1,22 @@
+SN	Report Name			Frequency				Detail				Development Time (hrs)
+
+1	Weekly BackOrder Report	Last Sunday of each Month	Week,Country,Item,Qty,Value	6
+
+2	Weekly Order Status	Last Sunday of each Month	week,Country,Item,Qty,Value	6
+
+3	LIFR				Last Sunday of each Month	week,Country,Item,Ordered,Filled,LIFR
+	(	1. Exclude listing based on SKU reference with date range exclusion facility, and
+		2. If Line filled same day, considered filled despite creating BO )		32
+
+4	SKU Reference Upload	Monthly as given by Serena, modification to upload program	4
+	(	Upload sample reference already provided )
+
+5	PO Exclude Maintenance	Adhoc when notified		Exclude PO for LIFR calc.	4
+
+Total 3 reports, 1 maintenance window, 1 upload window modification				52 hrs
+
+Kindly concur the details before we engage resource to code the requirements.
+
+Note:
+The LIFR report is complex and require 4 man days. This is a few parse complex report.
+All reports will be based on calender week and month. Auto despatched via email.

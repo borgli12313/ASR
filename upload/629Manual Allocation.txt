@@ -1,0 +1,10 @@
+Manual Allocation screen will have 2 additional features compared to the 
+"Order Management" screen exist in Outbound folder:-
+
+1) Storerkey
+2) Plt ID
+
+Rainbow will then pinpoint to the selected Storer & Plt ID when running
+"Stock Out" & processing "Allocation".
+
+- the end -

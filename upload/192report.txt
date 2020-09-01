@@ -1,0 +1,22 @@
+Need you assistance on this data requirement by Mr. Pang. Enclosed mail refers.
+
+Data range requirement:-
+SKUs Involved: All Cypher starting with CRS
+Range: From 1st Dec 2003 till Week 04 2004 (25 Jan 2003)
+Sequence: Weekly
+Country:
+InBound - All (Australia, China, Korea, Taiwan, Thailand, Singapore, Vietnam, India, Pakistan, Malaysia, Philippines, Indonesia & Hong Kong) 
+OutBound - Gargrave, UK
+Data Requirement: Both Inbound (from Gargrave, UK) & Outbound (to all AP countries) on separate sheet
+
+Suggested data format:-
+
+Week, Country, PO #, SKU, Qty Received / Shipped,
+
+Please advise the estimated date of completion and also the man hours required for this data. 
+
+Thank you. Regards.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Daniel Alfred SHERWOOD
+E-mail: daniel.sherwood@baxglobal.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~

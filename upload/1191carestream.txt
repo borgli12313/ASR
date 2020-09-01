@@ -1,0 +1,7 @@
+Need a report from you as followed:
+1)       Articles 
+2)       Business unit
+3)       Expiry date control Yes / No based on the tick in the expiry date field.
+4)       Date In
+5)       Expiry date (show all expiry dates even though the expiry date field is not ticked)
+6)       Total qty

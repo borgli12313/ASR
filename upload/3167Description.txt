@@ -1,0 +1,3 @@
+Previous: Content on label is printed by fixed template. 1 reader + 1 battery + 1 charger + 1 modem.
+New: Content need to be printed based on kits components, because we have kits with 2 batteries. 
+WMS should be able to print based on kits requirement

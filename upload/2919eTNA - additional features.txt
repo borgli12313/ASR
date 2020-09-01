@@ -1,0 +1,3 @@
+1. Under "Employee Application Submit Status", name of the approvers in each level to be reflected under the status "0"/"1".
+
+2. Drop-down selection of year and month at the menu bar – under “View Past Courses” and “View Courses Approved” (month only). Right now, it is hard to filter through.

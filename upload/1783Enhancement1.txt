@@ -1,0 +1,10 @@
+Currently under the BOM Hub, Ops are not able to make direct / complete entries of part numbers in the SKU field.
+Only the first digit/alphabet is allowed to be keyed and listing of available SKUs appeared in Sequence.
+Taking a longer time to trace inventory and details of results not able to be copied/pasted.
+Request to enhance the function.
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+Total Net Weight information to be provided on packing list and Delivery Note.
+I will provide a list of current packaging carton/pallet weight and dimension of various sizes
+Schenker IT to use informations to auto calculate Net Weight per Order base on Gross Weight of order minus total packaging cartons used. 

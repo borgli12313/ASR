@@ -1,0 +1,5 @@
+Start: RF Receiving to ASN finalized plus 1hour (With change request on remark capture for fail KPI)         
+Use current daily receiving report format with add on 3 for more fields
+1) Pass/Fail
+2) Remarks for fail KPI
+3) Percentage for Total PASS order line/ Total Order Line

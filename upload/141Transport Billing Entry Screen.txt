@@ -1,0 +1,5 @@
+i) by adding "Deliver To :" & "Deliver Address :"
+- these two fields should be similar to the recent addtion done to the Manual Shipment Order screen, where the address and name is auto populated with the ShipTo and Name selected from the forwarders table
+- understand this would require considerable effort in modifying the existing Transportation Billing tables
+
+ii) by adding "Delivery Instructions :"

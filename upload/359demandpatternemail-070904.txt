@@ -1,0 +1,77 @@
+	JyhHuey Tay / SIN
+	Senior Operations Executive; Logistics; Singapore
+	07/09/2004 10:40 AM	 
+		 To: Meenakshi Ananthraman/PACIFIC/BAX@BAX
+		 cc: 
+		 Subject: RE: Enhancement on Demand Pattern Report
+
+Dear Meena
+
+Pls go ahead with the enhancement and Pang willreview it again when he is free.
+
+Thks & rgds
+
+
+Tay Jyh Huey
+Phone: +65 6446 1962
+E-mail : jyhhuey.tay@baxglobal.com
+
+
+ 
+Hello Jyhhuey
+
+The current logic for Demand Pattern
+
+1. List all the SKU in the master
+2. For each of this SKU , checks the inventory in the
+warehouse(qtyallocated-qtypicked-qtyonhold)
+3. Calculates the value of the stock using the price list we receive from
+RODEN. The value is SGD.
+4. Calculates the number of countries ordering a particular SKU from day
+one.
+5. If the number of country ordering is 1, then , specify the countryname
+6 .Calculate the open backorder qty for all the customer orders
+7. Calculate the backorderqty from RODEN based on the qtyexpected in the
+ASN minus the qtyreceived.
+8. Calculating the quantity shipped in a trimester basis
+9. Update the Min & Max quantity from Master.
+
+
+Propose the following updation
+
+1. List the SKU from Master with reference to the order list received from
+JNJ to eliminate the obselete parts.
+2. 2.For each of this SKU , checks the inventory in the
+warehouse(qtyallocated-qtypicked-qtyonhold)
+3. Calculates the value of the stock using the price list we receive from
+RODEN. The value is SGD.
+4. Calculates the number of countries ordering a particular SKU from day
+one.for the past 12 months
+5. To provide the list of Countries ordering ( Will need to work on how
+complicated this would be)
+
+Will revisit into the logic of the following points
+
+6 .Calculate the open backorder qty for all the customer orders
+7. Calculate the backorderqty from RODEN based on the qtyexpected in the
+ASN minus the qtyreceived.
+8. Calculating the quantity shipped in a trimester basis
+
+Not required as we do not use it any more
+
+9. Update the Min & Max quantity from Master.
+
+
+Please discuss this with Mr. Pang and let me know on what is your idea to
+enhance the report.
+
+Thanks
+Meena
+*****************************
+Bax Global Pte Ltd
+Tel: 65459788 Ext: 240
+*****************************
+
+
+
+

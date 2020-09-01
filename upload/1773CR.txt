@@ -1,0 +1,1 @@
+The manual ASN created for GR the FG SKU attribute(iphone,ipda and ipod) transfer to AC hub , currently the OTV push file logic extract to Apple based on the 861 and 850 triggered .Production need to retrieve the ASN SN based on the exactly OTV push file format ( no change for all the data require)	

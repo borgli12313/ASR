@@ -1,0 +1,9 @@
+Would it be possible to standardise the layout and have the same categories for the HR Verification page, Employee Application Submit Status and Approval Pending List? Currently the Employee Application Submit Status and Approval Pending List pages only show Department, Name and Course Title, which makes it difficult to identify employees when we have their Emp ID and not their name. The Employee Application Submit Status and Approval Pending List can follow what is shown on the HR Verification page, to have
+•         Emp ID
+•         Name
+•         Cost Centre
+•         Designation
+•         Course Title
+•         Date of HOD Approval
+
+If there is insufficient width on the page, perhaps we can remove the “Pending L3 and L4” columns as only 2 levels of approval is required now?

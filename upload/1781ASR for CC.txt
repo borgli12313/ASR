@@ -1,0 +1,2 @@
+To generate count sheet for operation team.
+List of part number and bacth in text will be uplodaed to teh application, the application will pull the Bin location accoridng to batch and will pull the system iveneory balance. Attached is the format for the out put.

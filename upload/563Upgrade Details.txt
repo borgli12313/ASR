@@ -1,0 +1,25 @@
+1.DO
+"  -""Ship To"" address has to be the same as shown in ""Order List"" address."
+   -Contents show the summary of the qty against the sku(s) and Consignment Note(s).
+
+2.Packing Screen
+   -Enable to input the no. of qty.
+
+3.Create Packing List
+  -Packing List needed. (take examples from Brightpoint..etc)
+
+4.Create Shipping Marks
+   -Measurement of shipping mark is (6 x 4)inches.
+   -Refer to attachment.(refer to Shipping marks.xls)
+   
+
+5.Create Invoice
+"   -Attached, Sample of standard invoice. (refer Standard Inv.xls)"
+ 
+   -*Special request for only Taiwan Shipment(Taiwan Inv.xls)   
+     *Similar as Samsung RMA
+"      (there's a serparte screen for ""Customer Proforma Invoice"" and ""TFT Proforma Inv"")"
+
+6.Inventory Balance Report
+"  -Able to show qty on hand, allocated, balance and lot code."
+  -Able to run all sku(s) and selection sku report.

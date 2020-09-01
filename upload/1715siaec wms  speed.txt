@@ -1,0 +1,26 @@
+Is there any way we can boost the operating speed of our current WMS system for data processing? 
+
+Some of the screens have acceptable operating speeds – Mainly GR screens like ASN Receiving (Phase 2) & 
+[1] Multi PO Pre-receipt Screen  
+
+But some of the screens like New Order Entry Screen, Order Processing Screen, etc can take up considerable man hours.
+
+
+I understand IT team has put in considerable effort like the recent “Identifying the Top 5 critical WMS screens for 
+improvement”, splitting some of the screens to Archive & Production, troubleshooting the individual concerns by 
+the ops daily, identifying the root causes for interfacing issues like the multiple line items transfer TX failure, 
+daily WMS-SAP recon, pending enhancements, etc.
+
+But we are still contributing to the effects of the root causes as evident from the yearly XSGT projects and 
+costly cycle count liability. 
+
+ 
+Data processing like GR, manual allocation & GI are ok after the above initiatives but in terms of data retrieval
+involving use of Inventory Status, Order Information Query and screens involving the archive tick box, the waiting
+time is still considerably long and will set to get longer as our business increases year after year. 
+
+
+You can perhaps share some existing constraints that affect further improvements.
+
+Is it due to our server is tapping on regional server and is subsequently costly to change? Or due to other reasons?
+

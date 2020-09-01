@@ -1,0 +1,8 @@
+J&J want to know what are the Back Orders that have not been fulfilled by Roden.
+The format would most likely be as follows:-
+1) WebOrderKey     
+2) CustRef	
+3) ShipToCode	   
+4) CatalogNumber	
+5) Description     
+6) Total Back Order Qty >1 week   > 2 weeks   >3 weeks   > 4 weeks & above

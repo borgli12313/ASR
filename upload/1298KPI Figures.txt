@@ -1,0 +1,15 @@
+New report to reflect the following information.
+
+1) No. of LP received
+2) No. of ASN received
+3) No. of incoming invoice received
+4) No. of incoming invoice lines received
+5) No. of throughput cartons received
+6) No. of throughput pallets received
+7) No. of SAP DN received
+8) No. of SAP DN Lines received
+9) No. of picks (i.e. as per the no. of picking lines shown on pick list)
+10) No. of throughput cartons shipped
+11) No. of throughput pallets shipped
+
+Report to be generated based on date range query. Do not need breakdown details. Summary figures required only.

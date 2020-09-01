@@ -1,0 +1,11 @@
+Changes / New enhancement [8 Sep 2005]
+
+1. Transportation Manager
+     i.  Add Job Type : 
+         NORMAL  - for normal local transportation
+         ADHOC    - for adhoc transportation
+     ii. Add Urgent Charge flag - check to indicate for urgent charge
+
+2. New reports
+	i. Adhoc Transportation Billing
+	ii. Normal Transportation Billing

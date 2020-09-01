@@ -1,0 +1,31 @@
+TP
+
+INBOUND
+
+1. All receipt starting with DN is local,while those starting with IV and GIV are Overseas.
+	Does this mean that we do not bother about all other receipts that does not start with DN/IV/GIV ???
+
+     For TP, the manual ASN is without the prefix, these are to be under local supplies.Allan, Can you please help reconfirm.
+
+2. Mode is all by Sea
+
+3. Forwarder information: All are Non BAX
+  
+5. Frequency of shipment: 
+	a.All manual ASN and DN(local)created in a day to be considered as 1 shipment/count for frequency.
+                b.For Overseas, Each IV/GIV created to be considered as 1 shipment/count for frequency.
+
+	So all reports classify data into the respective months based on ASN creation date ?????
+Yes, the ASN date will decide the Month it should fall into.
+
+OUTBOUND
+
+1. All Orders with Ship to code = 'SG' to considered as Local and BAX deliver
+2. All orders with Ship to code <> 'SG' to be considered Overseas.
+3. Mode: to be from the 940 message.
+4. Forwarder: No of shipments in the Month under Non BAX			Follow rule set in (5) ?
+5. Frequency : Unique shiptokey per day to be considered as 1 shipment		i.e. 5 pick tickets same day  for same shiptokey = 1 shipment ? YES
+		
+
+	"Ship To Code" here refer to ShipToKey or Ship To Country ????
+Refers to Ship to country code, S_country in WMS orders table

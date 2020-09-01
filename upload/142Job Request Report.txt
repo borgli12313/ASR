@@ -1,0 +1,7 @@
+Create a new Job Request Report (using the existing hardcopy of our BAX DO as a reference)
+- header should show the exising Job details in Transportation Booking Report, eg. Job No, Booking Date, Date of Job, Time of Job, Mode of 
+  Transport, Transporter
+- "Deliver To : " would be the Deliver To & Deliver Address as updated during Job creation
+- details would be as what it is now in the Transportation Booking Report, you can leave the "BAX DO#" column out
+- footer would be as per the signature setup as show now in our BAX DO
+- refer copies as provided

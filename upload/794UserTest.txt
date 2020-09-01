@@ -1,0 +1,13 @@
+Test Action 1 - By Andrew Poh (2006.10.19)
+1- 	use the create button to load on the repack order 			OK
+2-	use allocate to auto allocate repack material 				OK
+3-	click on picklist , pick list generated					OK
+4-	click on shipwave to close work order					OK
+5	simulate work order not enough material and allocate by using ASN	OK
+
+
+
+Test action 2 ( 2006.10.25) 	
+
+1	Unallocated packing material 				OK
+2	Deleted an entry to simulate canceling an work order 	OK

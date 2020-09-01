@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[ASRMaster.vbp]
+SCC_Aux_Path = "\\10.215.23.193\IntApps\"
+SCC_Project_Name = "$/ASR/Components", DAAAAAAA
+
+[ASRTrans.vbp]
+SCC_Aux_Path = "\\10.215.23.193\IntApps\"
+SCC_Project_Name = "$/ASR/Components", DAAAAAAA

@@ -1,0 +1,35 @@
+         Currently when an UIMS request is approved,
+
+            i) Approval Email :
+                An approval Email is sent to the Application Administrators and Requestors.
+                Not sure, if the eMail is sent to the Account Owner , if he has a valid DBSchenker.com email ID.
+
+           i) Reject Email :
+                Not sure, if the eMail is sent to the Account Owner , if he has a valid DBSchenker.com email ID.
+
+                 Can you add  Account Owner also if he has valid email like  ‘XXX@dbschenker.com’.
+
+           iii)  ID creation Email :
+
+                  When an ID is created by an Administrator ( Example Exceed ),  an Email is triggered to the Requestor
+                     With ID and PASSWORD.  
+
+                     There is a change now as given below :
+
+                       If the Account Owner has a valid email  then 
+
+                  a)  An Email without  PW info should be sent to the Reporting TO manager and
+                           to  Requestor ( if he is not the  Account Owner /Reporting TO ).
+
+                   b) ID and PW shall be sent to the Account Owner
+                           Add a sentence at the bottom of the Email body  
+                          Note :  Dear Account Owner, Please change the password during the first Login’.
+
+               If the Account Owner do not have an email  then 
+ 
+                  c)   An Email  PW info should be sent to the Reporting To  manager.
+                            Add a sentence at the bottom of the Email Body :
+
+                            ‘Dear Manager,  Please protect the ID and PW information as this is for the requested account owner use only’
+
+                d)   Sent an Email to  Requestor ( if he is not the  Account Owner/Reporting TO ) with the ID creation info without PW

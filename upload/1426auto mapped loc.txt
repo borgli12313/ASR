@@ -1,0 +1,5 @@
+1. To add in 3 loc for each SKU, as the putaway loc is determined by receiving type.  Pls see attached.  
+
+2.  For converson, it should be auto-move to the child SKU's mapped location, instead of user performing system move manually.
+
+With this change, we are able to proceed to enhance on cycle count

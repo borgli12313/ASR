@@ -1,0 +1,9 @@
+1)Clearing filers on search screens.
+2)Only the following file extensions can be uploaded by users (.PDF, *.XLS, *.DOC)
+3)Email to be in sorted order. (The Last email sent would be first)
+4)Editing of CNR can be only allowed upto the L2 Level. 
+5)Disabling of the currency after requestor submits CNR.
+6)Redirection to the Approval Page After approving the CNR. After closure of the pop up window.
+7)View shipments with duplicate Shipment No. Hope this help in your approval process
+8)The Search & Approval Listing screens  pop for the shipment to check for CNRs with duplicate shipment numbers.
+9)Shipment No# and customer have been added to the verification screen

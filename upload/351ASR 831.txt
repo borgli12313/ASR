@@ -1,0 +1,13 @@
+ASR 831
+
+To change existing SKU button in ASN Creation screen to translate manufacturer sku to Epson sku.
+
+Expected actions when sku button is clicked:
+
+1) Pop up extry screen to allow user to key in manufacturer sku
+
+2) Save this manufacturer sku in receiptdetail (AltSKU ???) 
+
+3) Translate manufacturersku from bax_gpc_vendorcode to EpsonSku
+
+4) Populate EpsonSku in sku field

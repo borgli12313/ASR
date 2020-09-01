@@ -1,0 +1,2 @@
+IT to enhance to lookup the 10SKUs with UOM issue.  Convert the qty to allow user to perform allocation and convert back before sending back to Essentra
+Operations to check if qty is always in thousands?

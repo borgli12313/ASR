@@ -1,0 +1,13 @@
+RF Receiving 
+	Add Carton / Pallet qty entry field after 'PACK' entry
+	- to be able to capture the repective qty in INBOUND BILLING report. 
+		This to prevent under charge to customer. 
+
+	eg. Expected QTY  DJ#1	1000
+	    Receving 		QTY	PACK	PACK QTY
+			R1 	250	C	  2	
+			R1 	150	C         1
+			R1	500	P	  1
+						-----
+
+					total: 2 Carton, 1 Pallet

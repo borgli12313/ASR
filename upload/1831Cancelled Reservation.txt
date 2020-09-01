@@ -1,0 +1,1 @@
+Cancelled reservation in SAP, WMS will not immediately move the stock in original location. Ops team will control the release of cancelation in WMS. WMS will add a new screen and trigger button for cancelation of reservation. Ship out screen will show a message if the reservation is cancelled when doing the ship out process and will fail the ship out process.

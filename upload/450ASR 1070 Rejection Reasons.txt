@@ -1,0 +1,27 @@
+CheeLeong Foo / SIN  Senior System Analyst; Logistics IT; Singapore  01/04/2005 06:17 PM 
+         
+        To:        PohSing Ng/PACIFIC/BAX@BAX 
+        cc:        Allan Lee/PACIFIC/BAX@BAX, KinWei Chin/PACIFIC/BAX@BAX, Henry Tjan/PACIFIC/BAX@BAX 
+        Subject:        Fw: ASR Request - ReqNo: 1070 - WMS - Scoping 
+
+
+Poh Sing, 
+
+This request will not and cannot be addressed in the short to medium term for the following reasons: 
+
+- e-Procurement as it is today does not support the charge to customer distinction among supplier invoices. 
+
+- e-Procurement is now undergoing a redevelopment and is now at testing stage.  And it still does not support the "Charge To Customer" distinction. 
+
+- SLIM interface with non-WMS system is not available. 
+
+- the level of information support / entry needed at e-procurement yet to be discussed involving HR/Finance. 
+
+Best regards
+
+Foo Chee Leong
+Senior Systems Analyst
+BAX Global Pte Ltd
+Tel: (65) 6549.1131
+Fax: (65) 6546.1376
+Email: CheeLeong.Foo@BaxGlobal.com

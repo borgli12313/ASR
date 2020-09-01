@@ -1,0 +1,12 @@
+Current 
+- HP buyer request to select part `A' from HDD Supplier MAXTOR for conversion (SOI - HOI).
+- In WMS (Rainbow) there're 4 different Suppliers storing part `A' in HUB.
+- To select part MAXTOR for allocation, HUB Supervisor On-Hold the other 3 Suppliers in WMS.
+- Based on FIFO / Multi Vendor Logic, WMS will allocate request.
+- After Creating Order, Ops Supervisor need to release the 3 Suppliers from On-Hold status.
+
+Future
+- HP buyer request to select part `A' from HDD Supplier MAXTOR for conversion (SOI - HOI).
+- In WMS (Rainbow) there're 4 different Suppliers storing part `A' in HUB.
+- In "Order Management" screen, Ops Sup will input Storer Key in the newly created column.
+- Based on the Storer Key, WMS will allocate request.

@@ -1,0 +1,3 @@
+AWB information to be enter for export orders
+Schenker IT will deploy popup screen with selection for multiple order selections(Same customer). 
+Popup screen to have selection of (AWB/Self collection/Local Delivery)

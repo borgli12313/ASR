@@ -1,0 +1,8 @@
+Real time stock SOI conversion function to generate 2 reports:
+- Summary Report with format: Sku, ShippedQty, TotalOrderQty, Excess, and ShipDate
+- Detail Report with format: StorerKey, Sku, ShippedQty, OrderQty, Wavekey, ShipDateTime
+
+The input will be StartDate, EndDate and Sku.
+
+Daily generated report (8am - 8am) will be sent to Seng Hock at 8:30am with format like above + unit price and total price.
+The unit price will base on the attachment (SY_final_offline.XLS)

@@ -1,0 +1,7 @@
+We will like to enable the function to apply for the same course twice. 
+
+E.g. I applied for Course XXX but was rejected by my L1. After I transfer, my new L1 will like me to attend Course XXX.
+
+Instead of going back to HR & IT to delete or revert the rejection action. The employee will just submit the application again for Course XXX.
+
+His eTraining Portal will then reflect both applications of Course XXX.

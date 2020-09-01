@@ -1,0 +1,4 @@
+Logic description:
+- To facilitate transfer activity to external whse. 
+- Module should allow user to specify a date range. 
+- To be eligible for non-moving status, there should neither be any deposit nor withdrawal within the time frame stated. 

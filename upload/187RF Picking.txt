@@ -1,0 +1,15 @@
+In order to capture the picking in progress status in the existing WIP Report,the
+required milestone has to be available to provide this KPI marker.
+
+In view of this, we would like to implement RF picking with the following in place.
+
+1) RF Pick Screen should include:
+
+- Wave no.
+- Part no.
+- LP
+
+2) Additional Screen in WMS hub application to capture:
+
+- Wave no.
+- Scanning of employee's badge no. of the respective picker

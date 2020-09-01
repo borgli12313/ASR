@@ -1,0 +1,10 @@
+1) Receiving qty for Cypher (CRSxxxxx) from Jan 03 to 30 Apr 03
+This report is request by Chee Ping.  The columns should include :
+SKU/Jan 03/Feb 03/Mar 03 / Apr 03
+
+2) Total shipped items(all SKUs) with unit price for 
+a) Year 2002
+b) Jan 2003 till 30 Apr 2003
+This report is request by Pang.
+The column should include:
+SKU/total qty/unit price/total price

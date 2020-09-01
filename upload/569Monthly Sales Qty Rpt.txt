@@ -1,0 +1,6 @@
+Using partial format of the current "Monthly Inventory Report", include the following format :
+1)brand,  biz line - pulled info. from order list 
+2) country - list down the country name who ordered the SKU for that  month 
+3) extract info. from Jan to Jun  05 
+
+J&J/Veron request 1st report on 18/7/05.

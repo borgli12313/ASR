@@ -1,0 +1,4 @@
+Allocation date=pick ticket is generated
+Transacted date=Pick & pack is completed, packing entry is finalized
+All date will consist of time
+2 results for outbound: 1 is comparing allocated date vs. requested date, 1 is comparing transacted date & requested date (it must be before requested date)

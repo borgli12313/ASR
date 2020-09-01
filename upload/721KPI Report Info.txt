@@ -1,0 +1,8 @@
+(1)# of incoming ctn 
+(2)# of incoming Plt 
+(3)# of outgoing Ctn 
+(4)# of outgoing Plt 
+(5)Total Orders 
+(6)Occupied Location/Empty Location 
+(7)No. of SKUs picked/handled 
+(8)No. of pcs picked/handled 

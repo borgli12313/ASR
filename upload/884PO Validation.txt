@@ -1,0 +1,5 @@
+ASN screen to pop up error msg "eSMI Validation-Insufficient PO Quantity-32A000XXXX". 
+The msg will be after the LA key in the total qty & click on save ASN#. 
+The validation will base on PO qty against the daily PO file from HP. 
+Rainbow able to auto minus the total qty received against the PO qty file from HP from time to time.
+This will help to reduce the 102K signal to fusion.

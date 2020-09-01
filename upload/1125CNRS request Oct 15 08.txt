@@ -1,0 +1,13 @@
+The CNR system, Credit note requisition workflow process, is originally designed to route approved credit note requisition back to requestor who will ultimately be the issuer of credit note in the procars systems.
+
+We now request some assistance and corporation for Sales CNR till IT do some enhancement in the CNR system.
+
+Hence for Sales, the flow should be as follows
+  
+Approved CNR will still be routed to sales requestor.  Sales requestor will send email to either AI, AE, SI or SE requestor to pick up the CNR to issue the credit note in procars with copy to Ming Ping / IT.
+
+Backend, IT will route the credit note requisition in CNRS back to operations requestor so that they will be able to pick up the CNR for issuance of credit note.  
+
+Future enhancement will allow Sales requestor to pick the credit note creator from operations and eliminate the emails advise
+
+( REQESTED VIA EMAIL   Dated  Oct 15, 2008 )

@@ -1,0 +1,17 @@
+Final stock take data entry screen:
+
+Ops stopped using the RF driven stock take application in July 2014, 
+now need to have a data entry screen in wms hub to input physical count data
+
+data element to key in: MPN, LP, PHYQTY,PHYLOC,BATCH
+
+data element to retrieve: 
+SysLoc, SysLP  ,  SysQty  , SysAllocatedQty, SysBatch,SysMPN , UOM,    Lot
+
+In this screen, non of the input element is mandatory for user to key in, 
+however PHYLP, PHYQTY,PHYLOC are compulsory in stock take table, we can use 
+dummy data when user do not key in the needed data:
+
+E.g. LP99999999   as dummy lp
+Loc  LOC9999999   as dummy loc
+

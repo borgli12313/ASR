@@ -1,0 +1,12 @@
+Require to retrieve transaction information from WMS Rabbit with the following details:
+
+1. SKU (List of SKUs in attachment)
+2. Transactiondate
+3. Invoice#/Pickslip#/OrderType#
+4. Storer - SG10, SG1001, SG90
+5. Period - 01.01.2000 to 31.09.2013
+6. Qty
+7. Lot number
+8. Schenker Ref Ship To/From Ship To/From Name HAWB
+9. Trxtype
+10. Expiry Date

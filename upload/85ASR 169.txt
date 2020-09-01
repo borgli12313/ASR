@@ -1,0 +1,7 @@
+select o.shiptokey, o.externorderkey, o.freightcurrency, p.wavekey, p.palletid, 
+o.editdate, o.date1 from orders o, bax_esp_orderdetail p
+where o.freightcurrency=p.wavekey
+and o.shiptokey ='1400000462'
+and o.editdate >='20030124'
+and o.editdate <='20030225'
+and o.status='9'

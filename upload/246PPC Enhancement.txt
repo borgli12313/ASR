@@ -1,0 +1,17 @@
+1. Variance Report
+-  Include the snapshot allocated qty (net off qty picked) as at freezing
+-  Add a remarks column
+- Change the reporting order to (Loc,SKU,ID)and remove the plant code column.
+- Prompt window to appear for no records
+- Include a sign off line for Recount verification field.
+
+2. Count Sheet
+- Change the reporting order to (Loc,SKU,ID)and remove the plant code column.
+- Remove all non existing locations from the count sheet
+- Print outs should be according to frozen criteria
+
+3. Transaction Report
+- Prompt window to appear for no records
+- Remove the footer: "Recount Verification"
+                     "Data Entry Check by"
+                     "Date"

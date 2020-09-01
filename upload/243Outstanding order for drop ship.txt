@@ -1,0 +1,9 @@
+Require to check on outstanding order not process for dropship SKU receipt for more than 2 days. Receipt location will always be 'DROPSHIP'. 
+Information require in report
+1. SKU; 
+2. SKU receipt date; 
+3. PO; 
+4. PO line
+5. Qty
+Need system to trigger the above report to email : sendmicrosoft@baxglobal.com
+if there are line item affected

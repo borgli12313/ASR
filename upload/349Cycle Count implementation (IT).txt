@@ -1,0 +1,3 @@
+- IT to implement Daily cycle count program for the first 20 days of all holding inventory for Intel for the month 
+-  Upon completion of cycle count, operation will data entry count result in WMS system. IT to make a system check against WMS and SAP inventory. 
+- IT to implement system to link the result to attach cycle count report required by HP at the 3 week of the month and send automatically to HP personnel.

@@ -1,0 +1,174 @@
+BODY
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+TD
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+TH
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+FORM
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+INPUT
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+TEXTAREA
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+SELECT
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+UL
+{
+    LIST-STYLE-POSITION: outside;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    LIST-STYLE-TYPE: disc
+}
+LI
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+OL
+{
+    LIST-STYLE-POSITION: outside;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    LIST-STYLE-TYPE: upper-roman
+}
+.small
+{
+    FONT-SIZE: 9px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.big
+{
+    FONT-SIZE: 18px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.bodystyle
+{
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.box1
+{
+    BORDER-RIGHT: thin groove;
+    PADDING-RIGHT: 3px;
+    BORDER-TOP: thin groove;
+    PADDING-LEFT: 3px;
+    PADDING-BOTTOM: 3px;
+    BORDER-LEFT: thin groove;
+    PADDING-TOP: 3px;
+    BORDER-BOTTOM: thin groove;
+    BACKGROUND-COLOR: gainsboro
+}
+.box2
+{
+    BORDER-RIGHT: 3px solid;
+    PADDING-RIGHT: 5px;
+    BORDER-TOP: 3px solid;
+    PADDING-LEFT: 5px;
+    PADDING-BOTTOM: 5px;
+    BORDER-LEFT: 3px solid;
+    PADDING-TOP: 5px;
+    BORDER-BOTTOM: 3px solid
+}
+.appHdr
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 18px;
+    VERTICAL-ALIGN: middle;
+    COLOR: #6600cc
+}
+.trHdr
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    VERTICAL-ALIGN: middle;
+    COLOR: #ffff00;
+    BACKGROUND-COLOR: #9966ff
+}
+.trDet
+{
+    FONT-WEIGHT: lighter;
+    FONT-SIZE: 10px;
+    VERTICAL-ALIGN: middle;
+    COLOR: black;
+    BACKGROUND-COLOR: #e4e1ff
+}
+.lbl1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    VERTICAL-ALIGN: middle;
+    BACKGROUND-COLOR: #e0e0e0
+}
+.lbl2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    VERTICAL-ALIGN: middle;
+    BACKGROUND-COLOR: #999999
+}
+.lbl3
+{
+    FONT-SIZE: 12px;
+    VERTICAL-ALIGN: middle;
+    BACKGROUND-COLOR: #999999
+}
+.txtro
+{
+    BORDER-RIGHT: silver thin groove;
+    BORDER-TOP: silver thin groove;
+    FONT-SIZE: 12px;
+    VERTICAL-ALIGN: middle;
+    BORDER-LEFT: silver thin groove;
+    BORDER-BOTTOM: silver thin groove;
+    BACKGROUND-COLOR: lightgoldenrodyellow
+}
+.mnuitem
+{
+    PADDING-RIGHT: 2px;
+    PADDING-LEFT: 2px;
+    PADDING-BOTTOM: 2px;
+    COLOR: #ff9999;
+    PADDING-TOP: 2px;
+    BACKGROUND-COLOR: #990000
+}
+.pkval
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    VERTICAL-ALIGN: middle
+}
+.msginfo
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    VERTICAL-ALIGN: middle;
+    COLOR: maroon
+}
+.rpthr
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    VERTICAL-ALIGN: middle;
+    BACKGROUND-COLOR: #ccccff
+}

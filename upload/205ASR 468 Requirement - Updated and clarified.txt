@@ -1,0 +1,28 @@
+Additional COO Column
+
+i) Current
+ASN created have COO populated as country reflected in PO header.
+However, for DCs, different parts may have different COOs, hence not able to update COO at ASN receipt line level.
+
+
+ii) Proposed
+As per Epson request, we have to capture COO at line level. Input of the relevant COO should take 
+place at the point of GIT (ASN creation) via the requested additonal COO Column. Upon receiving the invoice and 
+packing list, the COO will be input at line level. 
+
+If COO is not input by user into this column, it will take the default COO from PO header.
+
+
+Overall Criteria:
+
+The COO information at the point of GIT should still be based on the COO received from 
+the 850. If a revised COO is input at the line level, the information would then overwrite the COO 
+received from the 850 message, otherwise, the COO will remain as status quo.
+
+Additional COO input column should be blank, which allows user to input the correct COO. If user does not key
+in the COO, then it will take the COO from PO header and update the ASN.
+
+Plse see attached file.
+
+
+

@@ -1,0 +1,4 @@
+Pls generate a new report. Required fields are:
+D/O Number, SKU, Quantity of cartons, Quantity of IMEI, IMEI numbers.
+D/O number would be the "customer reference" number in Order Creation field.
+This report to be retrievable by "WMS Order Number" and by "date range".

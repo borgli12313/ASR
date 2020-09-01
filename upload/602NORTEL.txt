@@ -1,0 +1,8 @@
++ Qty allocate for withdrawal = Pansize registered during receiving.
++ NORTEL std ctn is range from 5-45pcs 
++ Std ctn w/o master Serial Numbers (an ID representing the rest of the serial nos.)
++ "Outbound ID Capture" in Rainbow only 1 line available when pulling for 1 ctn.
++ Storekeeper can only scan 1 serial number.
++ Will update Customer Service on the balance of serial numbers via e-mail.
+
+Already inform NORTEL but nothing can be done from their end. Need the nos of line in "Outbound ID Capture" screen to appear the same as the qty consume.

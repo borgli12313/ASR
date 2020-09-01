@@ -1,0 +1,14 @@
+ASR 0449
+
+Purpose:
+To create a user interface in SMART to allow users to change qty in 
+and delete partslabelid.
+
+Existing SQL Function:
+AmendQty => BAX_GPC_AMENDQTY
+Delete => BAX_GPC_DELETEPACK
+
+
+*** This shall interface shall not check for ordered and picked qty.
+    Existing manual order unpicking/unallocation, change in qty picked 
+    and ordered shall remain in place.

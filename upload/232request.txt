@@ -1,0 +1,9 @@
+Kindly include the following in Timken Hub application:
+
+1) "ASN Screen" of Incoming : Option to choose number of
+container(reason is one shipment may consist of 2x 20 
+footer  OR 1x 20footer & 1x 40footer or other combinations.
+
+2) "Shipment Order Screen" of Outgoing: To include pull down
+menu(options like ASN screen) for stuffing/unstuffing like 
+the ASN screen as well as number of container.

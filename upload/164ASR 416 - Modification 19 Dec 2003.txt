@@ -1,0 +1,5 @@
+ASR 416
+Modification request on 19/12/2003
+
+- Change naming of "Picked" to "Shipped"
+- Change naming of "BAX DO" to "Shipment Order"

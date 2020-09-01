@@ -1,0 +1,9 @@
+New constraints to ensure data integrity: 
+FK_BAX_NI_PACKINGHDR_WAVE,
+FK_BAX_NI_PACKINGDTL_PACKINGHDR,
+FK_BAX_NI_PACKINGDTL_PICKDETAIL.
+
+Update Trigger ntrWavedetailUpdate to correct bug where 
+orderkey for wavedetail can never be updated.
+
+Create Trigger ntrBAX_PACKINGDTL_Update to ensure qty packed <=picked qty

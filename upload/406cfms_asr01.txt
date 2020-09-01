@@ -1,0 +1,7 @@
+Corporate CQI system which is used for interstation complaints has the option of 
+allowing station B to forward to C with A automatically notified. 
+This is, in fact, the preferred mode so that origin station A does not get 
+bogged down with rejections and resubmissions. 
+
+Would like for BAX SIN CFMS to allow similar option for local management of 
+complaints.

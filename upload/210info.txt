@@ -1,0 +1,8 @@
+To Develop the RTS screen for user to input such as facility, sku, qty, Ref#.
+The RTS logic will find the empty lot (historical lot) and 
+put the RTS stock there based
+on existing facilty, lot# and ID#
+
+Enhance the billing methodology (Handling In/Out) such as:
+- Overtime charges can not be imposed on RTS
+- RTS handling In/Out will be charged as per normal.

@@ -1,0 +1,8 @@
+ASR 0927
+
+
+The old Weekly Storage Report dealt with daily transacted locations.
+
+This new Enhanced Weekly Storage Report lists down actual daily occupped locations with a weekly average.
+
+Pallets in stageing area at end of day is computed as 1 location per pallet.

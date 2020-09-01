@@ -1,0 +1,11 @@
+Dear Marian,
+
+I need your help to patch the receiving data within SAP 0001 from backend, as there is an inventory discrepancy btw SAP & WMS.
+
+ASN# 24042
+SKU# 5198391
+
+Line # 142 – over-assignment of 200pcs 
+Line # 148 – under-assignment of 200pcs
+
+Please patch the line tagging to LP0000350942 to line # 148 with dummy LP# D16012900059 ( Loc – STAGE). Thanks

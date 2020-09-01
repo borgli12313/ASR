@@ -1,0 +1,4 @@
+Create packing list with net weight
+
+As per LC shipment required, the pallet net weight and BD logo needed to shows on the packing list.
+Refer to attached sample of packing list, We require to create a packing list with net weight input column from WMS system as to allow supervisor to key in net weight in packing list when required.

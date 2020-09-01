@@ -1,0 +1,5 @@
+ASR 346
+Request modification on 23 Dec 2004:
+1) Add "Sold To Party" entry, with similar option as above
+
+2) Update and reflect Sold To Party & Address in invoice during "Print"

@@ -1,0 +1,3 @@
+When uploading new BOM file to WMS,
+Change the logic of updating Parent Kit such that rather than WMS overwriting previous entry of SKU on an earlier line of the BOM file uploaded, 
+It combines together with the previous entry to form the complete kit, so we can minimize missing SKUs in a parent part.

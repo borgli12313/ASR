@@ -1,0 +1,16 @@
+Need to add a "Remark" column under the TR# in the Rainbow Order Mgmt screen. This field is a mandatary field. The remark have a drop down key. Below are the data. 
+G7A OTSC
+G7A ISS
+G7A NSS 4thFL
+G72 Option 7thFL
+G72 IO Shipment
+G72 MRT
+G72 Ryder G52
+Ryder G5B
+Ryder G51
+Reservation
+SOI to HOI Conversion
+MM Option 600
+MM ESG 601
+MM PSG 551
+In the Issuing Summary also show up this column.

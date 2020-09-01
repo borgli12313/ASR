@@ -1,0 +1,14 @@
+ASR - Improve Outbound Data Capture
+
+1) Allow scanning of masterID at pallet level, rather than the current carton/retail box level
+
+Keep exisitng scanning of carton/retail box serial no scanning
+
+2) Allow scanning of pallet ID during outbound
+
+3) Send MasterID in 945 auto email
+
+4) Identify MasterID scanning or RetailBox scanning during outbound scanning
+
+5) Change subject header in 945 email to reflect type of serial no scanned
+

@@ -1,0 +1,12 @@
+1.) User Name:  Wee, Wai Hung
+      UserID:         whwee
+      Source Safe Database: \\10.215.23.193\Logitech
+                             \\10.215.23.193\DLink
+
+2.) User Name:  Tan, Jimmy Getubig
+     UserID:          jtan3
+     Source Safe Database:  \\10.215.23.193\Epson
+
+3.) User Name:  Bassig, Raquel
+     UserID:         rbassig
+     Source Safe Database:  \\10.215.23.193\Legrand

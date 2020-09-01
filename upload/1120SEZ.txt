@@ -1,0 +1,11 @@
+Customer Specific Reports --
+SEZ --
+Store In Listing
+Receiving Note
+Delivery Note Cum Packing List - For EM Local
+Delivery Note Cum Packing List - SEZ
+Stock Taking - With Lot No. and Qty
+Stock Taking - With Lot No. and Without Qty
+Article Listing With Qty For Selected Articles
+Inventory Listing By Article
+Stock Adjustment Listing Without Remarks

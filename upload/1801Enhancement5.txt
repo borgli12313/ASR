@@ -1,0 +1,9 @@
+Putaway/Move function is not available in Bombardier Hub.
+
+Add function to hub for ops in order to eliminate the use of exceed.
+
+
+
+
+
+

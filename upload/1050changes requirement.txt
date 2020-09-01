@@ -1,0 +1,10 @@
+
+1. Billing Report -  charge type to be manage by the SKU group; 
+	 - CARTON charge only apply to MEMORY, 
+	 - EACHES Charge will be applied to ODD, HDD and TFT. 
+
+2. Daily receiving report - to capture total received qty even not all serial numbers are captured
+	i.e in case if the serial nos are partially scanned, 
+	i.e total qty = 500 pcs, scanned qty = 250pcs
+   	the detail receiving report will list out 250 received line with serial no , 
+		and 1 line received with qty = 250 pcs. 

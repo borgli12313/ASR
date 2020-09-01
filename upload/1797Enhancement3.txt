@@ -1,0 +1,10 @@
+Add in the function of adjustment of stock to the Bombardier Hub.
+
+Restrict the function to superuser.
+
+
+
+
+
+
+

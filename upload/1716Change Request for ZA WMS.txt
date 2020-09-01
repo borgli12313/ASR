@@ -1,0 +1,6 @@
+Change Request for ZA WMS
+1) Add II permit field in ASN Creation.
+2) Add OO permit field in Order Maintenance
+3) Include II Permit info in Inventory balance screen.
+4) Include II Permit info in the Daily Receiving report
+5) Include II and OO Permit info in Daily Outgoing report.

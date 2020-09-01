@@ -1,0 +1,3 @@
+For Admin users, there should be a bar of "Attendance". All HR Approved applications will route to that part for Admin users to mark the attendance and track it.
+
+Reports with the respective approval dates with the attendance should be able to be generated from the system.

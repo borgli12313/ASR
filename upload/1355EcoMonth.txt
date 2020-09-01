@@ -1,0 +1,21 @@
+For overlapping billing-period, Change the PERIOD and ECOMONTH based on the number of days 
+Ex   1.    BIlling - Peiod
+            START                 END                
+        20-03-2010         03-04-2010     
+          
+          Since Mar has more days, 
+                    EcoMonth = 201003 
+
+2.    BIlling - Peiod         ( equal )
+
+          START                 END                
+        29-03-2010         03-04-2010     
+               
+          Since Mar has equal days as that of Ap
+                    EcoMonth = 201003 
+                    
+                    PEriod       = 03
+
+
+Other conditions ,   remain as that of current calculations.
+

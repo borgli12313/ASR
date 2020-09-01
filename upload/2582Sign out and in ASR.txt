@@ -1,0 +1,16 @@
+1. Steps
+- Scan countbook ID
+- Scan Employee ID
+- Auto show Employee Name
+- Auto show Sign Out/In timing
+
+2. Logic
+- If there is no countbook printing, Sign Out is not allowed
+- If there is no Sign Out, Sign In is not allowed
+- If there is no Sign In, Data Entry is not allowed
+- If there is no Data Entry, 2nd count/3rd count countbook is not allowed to be generated
+
+3. Real-time Status Monitoring Board
+- Horizontal axis shows counting teams
+- Vertival axis shows the total and completed countbooks in each team in stacked bars.
+- One chart for each count (count 1, 2 and 3)

@@ -1,0 +1,7 @@
+Description:
+
+* To block the users from making the GST transaction like create invoice/credit note/export subcert for those in-active customers.
+
+* As we still want these in-active customers to be displayed on the cost centre code page of GST Generator instead of remove it totally thus we suggest to create a column to put the 'in-active' remarks for us to identify the in-active customers and also allow us to pull the previous transaction of these in-active customers.
+
+

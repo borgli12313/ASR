@@ -1,0 +1,9 @@
+- Under New OJT selection please include options to select all Quality Manuals, all Quality and HSE Procedures (P-XXX) and all HSE Work Instructions (W-HSE)
+- Under Add New OJT please remove the “Venue” selection option completely
+- Remove “Schenker Employee Orientation” from WI list
+- Please set the Instructor to complete the Training Effectiveness, not the Manager
+    o The Manager responsibility is only assigning OJT to his reports
+    o The Instructor responsibility is only conduct OJT, complete OJT Approval and Effectiveness
+- Please set a email trigger for OJT Effectiveness 1 month after OJT completion to the Instructor
+- Please only allow Instructors to complete OJT Effectiveness only 1 month after the OJT completion
+    o Now the Effectiveness can be completed immediately after the OJT, this can cause an NC.

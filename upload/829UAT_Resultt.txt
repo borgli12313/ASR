@@ -1,0 +1,20 @@
+Date: 2006.12.15
+Andrew Poh
+First test action 
+1)	test on upload but some failed due to allocated LP-									ok
+2)	test on allocation 													ok
+3) 	Picklist ok but did not check the previous location assume it will be correct from the previous Scrap picklist	function		OK
+4) 	second test with the qty in the txt change (test the effect of allocation on LP that are partial allocated  )  			ok
+5)	SCRAP inventory function function failed as an error , R_GPC_SCRAP_INVENTORY not found in your library		-
+
+pls provide another set of data  to test uploading, (dont think there is any problem, but just in case)
+ 
+
+Date: 2006.12.19
+2nd Test action:
+
+1)	allocated -ok
+2)	picklist -ok
+3)  	LP in picklist and qty -ok
+
+COMPLETED

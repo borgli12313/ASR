@@ -1,0 +1,42 @@
+	Carrier Service Performance Analysis			Report Period :  01May05 to 20May05 
+
+Carrier Cd	Service Performance%	Master Air Waybills	Flown As Booked	Service Failure	Failure Service Codes	Code 00	Code 10	Code 11	Code 12	Code 13	Code 14	Code 15	Code 20	Code 21	Code 22	Code 23	Code 24	Code 25	Code 26	Code 27	Code 28	Code 29	Code 30	Code 31	Code 40	Code 50	Code 51	Code 52	Code 60	Code 71	Code 72	Code 80
+AC	100.00	1	1	0		1																										
+AF	87.50	24	21	3	11, 2137, 2382	13		1																								
+AI	100.00	4	4	0		1																										
+AY	100.00	2	2	0																												
+BA	100.00	6	6	0		4																										
+BG	100.00	2	2	0		1																										
+BR	48.15	27	13	14	11, 22, 55	7		12							1																	
+CA	100.00	85	85	0		45																										
+CI	100.00	24	24	0		12																										
+CV	100.00	42	42	0		23																										
+CX	100.00	31	31	0		17																										
+CZ	100.00	2	2	0																												
+EK	100.00	45	45	0		23																										
+FX	100.00	20	20	0		6																										
+GA	88.24	17	15	2	0023, 0030	7										1							1									
+GF	100.00	1	1	0		1																										
+JL	100.00	11	11	0		3																										
+KE	75.00	48	36	12	11, 1100, 22	17		10							1																	
+KL	72.00	25	18	7	0900, 0912, 0939, 0972, 0980, 0996, 2253	9																										
+LH	100.00	21	21	0		9																										
+LX	100.00	6	6	0		3																										
+LY	100.00	11	11	0		8																										
+MH	100.00	7	7	0		5																										
+MI	100.00	7	7	0		4																										
+MK	100.00	1	1	0																												
+NW	100.00	16	16	0		8																										
+NZ	60.00	5	3	2	11			2																								
+OZ	69.81	53	37	16	11	22		16																								
+QF	100.00	93	93	0		51																										
+QR	100.00	6	6	0		3																										
+SK	100.00	3	3	0		3																										
+SQ	90.73	593	538	55	0010, 0029, 0030, 11, 1100, 22, 2210	361	1	47							2							1	2									
+TG	100.00	32	32	0		15																										
+TH	100.00	5	5	0		3																										
+TK	100.00	1	1	0																												
+TR	100.00	35	35	0																												
+UA	100.00	1	1	0																												
+
+

@@ -1,0 +1,7 @@
+Request MOdified
+On 22 Jul 2004
+- additional column "SO Net Qty" to reflect qty 
+  that has not been allocated for repack (EPE) materials
+- clarified that RF Pending Qty = Qty of (actual) parts in Stage
+  => which would require to be repack later on
+- rename "RF Pending" column to "@ Stage"

@@ -1,0 +1,2 @@
+Order management - Able to delete all the orderdetail under a new order, at the moment can only delete one at a time until all orderdetail deleted then can delete away the whole order
+Order management - orderdetail's open qty column, when partially shipped and remaning qty wanted to cancel by setting open qty to 0. At the moment does not allow. 

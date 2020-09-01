@@ -1,0 +1,6 @@
+Changes: 
+1. add Job Type -
+    i. NORMAL - Standard MSITT, required Dispatch, Move process as normal ( Default Job type ) 
+    ii. SCRAP and OTHER -  
+	Allow closure of Job without detail item entry, NOT Move required. 
+	The Detail entry is disabled. 

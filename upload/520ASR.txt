@@ -1,0 +1,7 @@
+Veronica from J&J request an auto-generated report - Monthly Inventory Balance Report(In RDC for the previous mth) to be sent to her on the 1st day of each mth. 
+
+Format to be:
+
+SKU 	Qty 	Unit Price(refer to 740004)	Total Price(USD)
+
+Report should also show all codes in RDC even without qty on hand, status of the codes (Norm, OBS, etc)

@@ -1,0 +1,5 @@
+Pls help to auto send the attached report to Besi.  Recipent as below.  This is the report  “daily Receiving”
+1)	To delete those column in yellow
+2)	To combine the SKU qty to 1 row.
+3)	Email title: Besi Daily Receiving report – Date
+4)	Report to generate 6am daily, retrieve the previous day finalized receiving (time: 00:00 to 23:59)

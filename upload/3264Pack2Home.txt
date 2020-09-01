@@ -1,0 +1,30 @@
+From: Tran, Gia-My 
+Sent: Wednesday, 25 July 2018 4:39 PM
+To: Chan, Pei-Fong <pei-fong.chan@dbschenker.com>; Phoen, Eugene <eugene-yj.phoen@dbschenker.com>; Zhang, Jamie <Jamie.Zhang@dbschenker.com>; Bitoin, Jose Daniel <jose.daniel@dbschenker.com>
+Cc: Chai, Cheng Teck <Teck-Chai.Cheng@dbschenker.com>; Ng, Crystal <hui-fen.ng@dbschenker.com>; Lee, Kar Mun <kar-mun.lee@dbschenker.com>; Low, Dennis <dennis.low@dbschenker.com>; Venus, Alexander Joseph <alexander.joseph@dbschenker.com>
+Subject: RE: eRF UAT deployed for Pack2Home , Home2PackHU, Dim, etc.
+Importance: High
+
+Hi Daniel,
+
+We need your assistance to deploy 1 more thing in Pack2Home screen that should be displayed the balance of pickline & qty of order
+
+When we scan any PickHU of order, RF will search this Order status, show on the balance of pick line & qty which is not yet assigned Home since it will help us to know order status faster, to do troubleshoot if needed
+
+
+Example: orderkey 5755, balance of pickline 5/15, qty: 43/134
+
+
+ 
+
+
+Best Regards,
+
+Jia Mei (Ms)
+Logistics Officer
+Contract Logistics/SCM, Operations 
+
+SCHENKER SINGAPORE PTE LTD
+51 ALPS Avenue
+Singapore (498783)
+DID: 65495852

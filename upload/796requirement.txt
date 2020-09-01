@@ -1,0 +1,13 @@
+the following condition remain:
+OrderGroup = 'XBOX'		
+OR S_Country = 'TW'
+OR (OrderGroup = 'PIPC' AND S_Country <> 'JP')	
+
+add the new condition:
+OR Plant code = '4730'
+
+delete the following condition:
+OR ShipToKey = '0005065886'
+OR ConsigneeKey = '0005076761'
+OR (ConsigneeKey = '0005077400' AND ShipToKey = '0005077634')
+OR (ConsigneeKey = '0005076838' AND ShipToKey = '0005077053')

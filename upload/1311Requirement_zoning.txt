@@ -1,0 +1,7 @@
+Zoning Requests:
+(1). to display the zoning on Shipping Label. 
+	SG orders - Zoning defined by postage code master,  
+	Local Forwarder (for oversea orders) - Zone input in storer.VAT  
+		CC_Carrierkey <> 'XBAX' and Mode_domestic = 'A3' 
+
+(2). Alert in Shipping label printing module , if missing zone/Postagecode. 

@@ -1,0 +1,4 @@
+Scope:
+(a) New screen to scan orders release for stamping release.  Button for UNRELEASE to be controlled display to authorised users.
+(b) Modify <Customer Order Status> to add new group of RELEASED orders
+(c) Modify PGI screen to show only RELEASED orders for PGI.  An option to enable this mode to be on or off.

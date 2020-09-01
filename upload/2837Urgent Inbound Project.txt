@@ -1,0 +1,10 @@
+1.To have a upload function similar to ‘Import Critical Parts’ named as ‘Import Same Day Turn Parts’. 
+*note that the report will be updated multiple times in the same day
+
+2.To enhance the ABC RF module to show either 1 of the following based on the 2 reports as uploaded under ‘Status’ on the RF screen:
+a.	Same Day Turn
+b.	Critical Part
+c.	Normal
+*in the event the SKU is both a SDT and CP, SDT will be the dominant
+
+3.To reflect the status in the outstanding inbound report under ‘Remarks’ column.

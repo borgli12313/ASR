@@ -1,0 +1,9 @@
+1. To remove the Adj/Move column
+2. To include extra column for Inbound_noninventory 
+items(These items will be received under one SKU, 
+Pohsing to decide on what and when it would be incorporated 
+into the system)
+3. A column called 'Chargeable' which is a computed field.
+Formula being (Inbound_inventory items + Inbound_noninventory items - 650)
+4. If the calculation for this column is less than zero default it to Zero.
+Negative values not to be shown

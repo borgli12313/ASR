@@ -1,0 +1,9 @@
+ASR 833
+
+
+Change existing Print option in the ASN creation screen to output to a report, with filter and sort option.
+
+Add an additional Status column:
+- Received  (QtyExpected = QtyReceived)
+- Partial Received (QtyExpected > QtyReceived)
+- Not Received (QtyExpected > 0, QtyReceived = 0)

@@ -1,0 +1,6 @@
+"1st Requirement - Identify Cost center ELM 216 and pre assigned Bin location ""STAGEAMZA"" during GR"
+Visible in ITS and Inventory Balance after GR
+
+2nd Requirement - Include Cost Center Field in Inventory Balance
+
+"3rd Requirement - Permanently lock these line items to ""STAGEAMZA"" under that PO cut to ELM 216 and disallow subsequent putaway to other bin locations. "

@@ -1,0 +1,6 @@
+Allow only cartons with dimensions 1 x 1 x 1 to be packed into Pallets. 
+
+
+This is to prevent error in shipment by carton to be packed into pallet. 
+All cartons to be shipped in pallet are packed with dimentions 1 x 1 x 1.
+Shipment by cartons are packed with actual carton dimensions.

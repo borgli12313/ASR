@@ -1,0 +1,27 @@
+
+Additional COO Column
+
+i) Current
+Currently, all POs consist of a Country of Origin, which comes in thru the 850. During creation of ASN 
+in the hub (through "Create Non-EMC ASN"), the ASN line is created with the COO from the PO. 
+This implies that the COO is captured at PO level. 
+
+
+ii) Proposed
+As per Epson request, we have to capture COO at line level. Input of the relevant COO should take 
+place at the point of GIT (ASN creation) via the requested additonal COO Column. Upon receiving the invoice and 
+packing list, the COO will be input at line level. 
+
+
+Overall Criteria:
+
+The COO information at the point of GIT should still be based on the COO received from 
+the 850. If a revised COO is input at the line level, the information would then overwrite the COO 
+received from the 850 message, otherwise, the COO will remain as status quo.
+
+Plse do not make the COO information available at the front end screen. The COO column should serve as 
+an editing function. 
+
+Plse see attached file.
+
+

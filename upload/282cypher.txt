@@ -1,0 +1,1 @@
+Need to validate two Cypher Part numbers CRS13350 and CRS28350.when we upload orders from the webpage to Rabbit. Since these parts are not available,the system should drop the line with an detailed error message. The message to contain the sku +PO + Country information.

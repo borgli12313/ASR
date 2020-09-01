@@ -1,0 +1,5 @@
+eTraining Portal Improvements
+
+1. Add In the function to search by course when approving the applications (Application Process -> Application Verification)
+
+2. Allow L1 and L2 to see the submission status of their employees. (i.e. If I apply for my employee, I will be able to see the submission status of that application, e.g. pending L2 approval or pending HR approval)

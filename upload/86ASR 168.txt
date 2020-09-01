@@ -1,0 +1,7 @@
+select o.editdate,
+p.wavekey, p.caseid
+from bax_esp_orderdetail p, orders o
+where o.freightcurrency=p.wavekey
+and o.editdate >='20030301'
+and o.editdate <='20030401'
+and o.status='9'

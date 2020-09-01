@@ -1,0 +1,7 @@
+Create batch registration for inhouse courses in this process:
+1. Create a list of course batches on eTNA with course date and title.
+
+2. After Training receives nomination, then assign nominated trainee to the course batch.
+2.1. This will skip the approval process by L1/2 and HOD. A screen for HR Admins to select a course and add multiple users to the course. The only level of approval will be under "Pending approval from HR". After which the HR Admin will have to approve the course for each user, upon confirming their registration for the course.
+
+3. After 90 days from course end date, the trainee's L1 will receive the automatic Training Effectiveness email for them to complete.
